@@ -69,7 +69,19 @@ Podemos atualizar nossa Política de Privacidade periodicamente. Notificaremos v
 
 ---
 
-## 9. Contato
+## 9. Serviços de Terceiros
+
+Nosso aplicativo utiliza tecnologias de terceiros para aprimorar suas funcionalidades, especificamente para os serviços de tradução.
+
+* **Google ML Kit (Tradução On-Device):**
+    Utilizamos o componente de tradução do Google ML Kit, que permite realizar traduções diretamente no seu dispositivo, mesmo sem conexão com a internet. Para que a funcionalidade offline funcione, os modelos de idioma necessários para a tradução são baixados e armazenados localmente no seu dispositivo.
+
+    **Importante:** A tradução realizada por este serviço é processada exclusivamente no seu dispositivo. O texto que você digita ou as imagens que você usa para tradução **não são enviados para os servidores do Google** ou de terceiros para fins de processamento da tradução. O Google não coleta ou armazena o conteúdo traduzido. Você pode consultar a política de privacidade do Google para mais informações sobre as práticas de dados do Google de forma geral: [https://policies.google.com/privacy](https://policies.google.com/privacy).
+
+
+---
+
+## 10. Contato
 
 Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail: vdmramos@gmail.com
 
