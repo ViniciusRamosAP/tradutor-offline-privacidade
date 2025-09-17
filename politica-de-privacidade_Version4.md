@@ -92,17 +92,21 @@ Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em cont
 ## Termos de Serviço do App "Tradutor offline"
 
 
-1. Aceitação dos Termos
+## 1. Aceitação dos Termos
 Ao instalar, acessar ou utilizar o aplicativo "Tradutor offline" (doravante "o Aplicativo"), você concorda em vincular-se a estes Termos de Serviço e a todas as leis e regulamentos aplicáveis. Se você não concordar com qualquer um dos termos, você está proibido de usar ou acessar este Aplicativo.
 
-2. Licença de Uso
+---
+
+## 2. Licença de Uso
 2.1. O Aplicativo oferece uma licença de uso anual, que concede acesso a recursos premium por um período de 12 (doze) meses a partir da data da compra.
 
 2.2. O uso do Aplicativo é licenciado, não vendido. A licença é pessoal, não exclusiva e intransferível.
 
 2.3. A licença de uso é concedida sob a condição de que o usuário esteja em conformidade com estes Termos e com a Política de Privacidade do Aplicativo.
 
-3. Limitação de Responsabilidade e Isenção de Garantias
+---
+
+## 3. Limitação de Responsabilidade e Isenção de Garantias
 3.1. O Aplicativo e seus serviços são fornecidos "no estado em que se encontram" e "conforme a disponibilidade", sem garantias de qualquer tipo, expressas ou implícitas.
 
 3.2. Reconhecimento de Instabilidade: O usuário reconhece e aceita que o Aplicativo, como todo software, pode apresentar bugs, falhas, erros de programação ou outras instabilidades que podem afetar sua funcionalidade e desempenho. Tais ocorrências são inerentes ao desenvolvimento de software.
@@ -111,10 +115,14 @@ Ao instalar, acessar ou utilizar o aplicativo "Tradutor offline" (doravante "o A
 
 3.4. Indenização: Na extensão máxima permitida por lei, em nenhuma hipótese o desenvolvedor será responsável por danos diretos, indiretos, incidentais, especiais, punitivos ou consequenciais (incluindo, mas não se limitando a, perda de lucros, dados ou outras perdas intangíveis) decorrentes do uso ou da incapacidade de usar o Aplicativo.
 
-4. Alterações nos Termos
+---
+
+## 4. Alterações nos Termos
 Reservamos o direito de modificar estes Termos a qualquer momento. Quaisquer alterações serão efetivas imediatamente após a sua publicação. O uso continuado do Aplicativo após a publicação de alterações constitui sua aceitação dos novos termos.
 
-5. Rescisão
+---
+
+## 5. Rescisão
 O desenvolvedor pode, a seu exclusivo critério, suspender ou encerrar sua licença de uso por violação destes Termos, sem aviso prévio.
 
 *Última atualização: 16 de setembro de 2025*
