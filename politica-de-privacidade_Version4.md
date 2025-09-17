@@ -87,7 +87,7 @@ Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em cont
 
 ---
 
-
+---
 
 ## Termos de Serviço do App "Tradutor offline"
 
